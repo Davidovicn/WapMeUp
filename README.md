@@ -1,4 +1,9 @@
 # WapMeUp 2.0
+
+
+Napomena, skripta se ne održava. Slobodno je kopirajte i koristite za šta vam je volja 
+
+
 Ova skripta je za sve one koji bi hteli da zarade malo kesha. 
 Jedino shto trebate da imate prethodno jeste tekuci rachun. 
 A to danas nije uopshte teshko u komercijalnoj banci mozete
